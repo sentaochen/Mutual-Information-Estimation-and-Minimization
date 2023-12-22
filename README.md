@@ -29,14 +29,14 @@ python demo.py  --net resnet --dataset PACS --num_class 7 --source art_painting 
 
 For more details of this multi-source domain adaptation approach,  please refer to the following work: 
 
-@article{Wen2024Training,
-title = {Training multi-source domain adaptation network by mutual information estimation and minimization}, 
-journal = {Neural Networks}, 
-volume = {171}, 
-pages = {353-361}, 
-year = {2024}, 
-url = {https://www.sciencedirect.com/science/article/pii/S089360802300727X}, 
-author = {Lisheng Wen and Sentao Chen and Mengying Xie and Cheng Liu and Lin Zheng} 
+@article{Wen2024Training,    
+title = {Training multi-source domain adaptation network by mutual information estimation and minimization},    
+journal = {Neural Networks},    
+volume = {171},    
+pages = {353-361},    
+year = {2024},   
+url = {https://www.sciencedirect.com/science/article/pii/S089360802300727X},   
+author = {Lisheng Wen and Sentao Chen and Mengying Xie and Cheng Liu and Lin Zheng}   
 }
 
   
